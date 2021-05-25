@@ -13,7 +13,7 @@ let players: [Player] = Bundle.main.decodeJSON("player.json")
 let brands: [Brand] = Bundle.main.decodeJSON("brand.json")
 let categories: [Category] = Bundle.main.decodeJSON("category.json")
 let products: [Product] = Bundle.main.decodeJSON("product.json")
-let smapleProduct: Product = products[0]
+let sampleProduct: Product = products[0]
 
 // COLOR
 
